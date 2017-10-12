@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    position: relative;
+}
+
+img {
+    max-width: 100%;
+}
+
+.header img:first-of-type {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+}
+
+.header h1 {
+    position: absolute;
+    left: 0;
+    background: rgba(255, 255, 255, 0.69);
+    bottom: 0;
+    margin: 0;
+    padding: 30px;
+    right: 0;
+}
