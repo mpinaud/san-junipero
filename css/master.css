@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
+body {
+    background-color: #363b41;
+}
+
 .header {
     display: flex;
     position: relative;
+    z-index: 1;
 }
 
 img {
@@ -20,23 +25,29 @@ img {
 .header h1 {
     position: absolute;
     left: 0;
-    background: rgba(255, 255, 255, 0.69);
+    background: rgba(0, 0, 0, 0.69);
     bottom: 0;
     margin: 0;
     padding: 30px;
     right: 0;
     font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: #feadf0;
+    box-shadow: 0 -1px 5px #fff, 0 0 100px;
 }
 
 .bg-primary.pink{
   background-color: rgb(254, 174, 240)!important;
     border: 3px solid #76f8fe;
+    z-index: 2;
 }
 .testimonial {
     position: relative;
-    width: 63%;
-    margin: auto;
     margin-bottom: 36px;
+}
+
+.testimonial img {
+    width: 100%;
 }
 
 .content {
@@ -67,6 +78,45 @@ p.card-header.bg-primary.pink {
     left: 0;
     right: 0;
 }
+
+.container:last-of-type h2 {
+    color: #fff;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h3.card-header {
+    color: #fff;
+}
+
+.card {
+    background: transparent;
+    border-color: #78f8fe;
+    box-shadow: 0 0 31px 5px #2a9ac5;
+    transition: all .3s ease;
+}
+
+a.btn.btn-primary {
+}
+
+.card:hover {
+    box-shadow: 0 0 60px 8px #fff;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+a.btn.btn-primary {
+    background-color: #78f8fe;
+    color: black;
+    margin-top: 23px;
+}
+
 
 
 
