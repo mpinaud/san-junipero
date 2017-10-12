@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
 .header {
     display: flex;
     position: relative;
@@ -22,6 +24,7 @@ img {
     margin: 0;
     padding: 30px;
     right: 0;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .bg-primary.pink{
