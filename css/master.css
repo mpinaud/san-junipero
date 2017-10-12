@@ -32,3 +32,38 @@ img {
   background-color: rgb(254, 174, 240)!important;
     border: 3px solid #76f8fe;
 }
+.testimonial {
+    position: relative;
+    width: 63%;
+    margin: auto;
+    margin-bottom: 36px;
+}
+
+.content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&1+0,0+100;White+to+Transparent */
+    background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
+    padding: 25px;
+    right: 0;
+}
+
+.content
+ h4 {
+    border-bottom: 1px solid;
+    padding-bottom: 11px;
+}
+
+a.navbar-brand img {
+    height: 50px;
+}
+p.card-header.bg-primary.pink {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
