@@ -11,9 +11,10 @@ img {
 
 .header img:first-of-type {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 50%;
+    top: 10%;
+    width: 33%;
+    display: block;
+    left: 32%;
 }
 
 .header h1 {
