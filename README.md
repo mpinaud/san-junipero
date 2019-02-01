@@ -1,31 +1,35 @@
-# _San Junipero_
 
-#### _Webpage for an after death location, 10/12/25_
 
-#### By _**Mikey Pinaud, Kevin Boyle, and Colin Worf**_
+# San Junipero
 
-## Description
+An application for an after death location and to practice Boostrap v3.3.7 with some CSS transition animations
 
-_Advert for luxury meta-destination. Features include banner image, nav bar, featured client, bootstrap cards displaying various packages, media query for mobile device compatibility_
+![alt text](https://github.com/mpinaud/san-junipero/blob/master/img/san-full.png)
 
-## Setup/Installation Requirements
+# What I Learned
 
-* _Clone repository_
+* Design a UI using HTML, styling with CSS and implement Bootstrap components
+* How to run a Bootstrap script in the HTML Head
+* How to implement Bootstrap's Grid system, Jumbotron, NavBar and Cards
+* How to implement a banner image
+* How to use media queries
+* How to import custom Fonts
+* New CSS properties
+  * box-shadow
+  * transition
+  * linear-gradient
+  * object-fit
+  * :hover
 
-## Known Bugs
+## Technologies
 
-_Do you want bugs??_
+* HTML
+* CSS
+* Bootstrap v3.3.7
 
-## Support and contact details
+## Setup
 
-_Contact Colin, Mikey, and Kevin at Station 8D at Epicodus HQ_
+* Clone this repository from https://github.com/mpinaud/san-junipero
 
-## Technologies Used
-
-_HTML, CSS, Bootstrap_
-
-### License
-
-*CC*
-
-Copyright (c) 2017 **_Colin Worf, Mikey Pinaud, Kevin Boyle, with apologies to the BBC_**
+## By
+Colin Worf, Mikey Pinaud, Kevin Boyle, with apologies to the BBC 🙈 🙉 🙊 10/12/2017
