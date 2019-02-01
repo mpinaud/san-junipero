@@ -32,4 +32,4 @@ An application for an after death location and to practice Boostrap v3.3.7 with 
 * Clone this repository from https://github.com/mpinaud/san-junipero
 
 ## By
-Colin Worf, Mikey Pinaud, Kevin Boyle, with apologies to the BBC 🙈 🙉 🙊 10/12/2017
+Colin Worf, Mikey Pinaud and Kevin Boyle with apologies to the BBC 🙈 🙉 🙊 10/12/2017
