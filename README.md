@@ -2,7 +2,7 @@
 
 # San Junipero
 
-An application for an after death location and to practice Boostrap v3.3.7 with some CSS animation transitions
+An application for an after death location and to practice Boostrap v3.3.7 with some CSS animation transitions ⚪️
 
 ![alt text](https://github.com/mpinaud/san-junipero/blob/master/img/san-full.png)
 
